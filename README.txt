@@ -1,0 +1,1 @@
+Replace your GitHub Pages repository root index.html with the included index.html. The glossy green floating Back to Top button remains visible throughout the platform and smoothly scrolls to the top. All previous sections are preserved.
